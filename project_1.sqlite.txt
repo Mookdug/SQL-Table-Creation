@@ -40,4 +40,6 @@ WHERE id = 1;
 
 -- View the current state of the table
 SELECT * 
+git rm project_1.sqlite.txt
+"Deleted unwanted file"
 FROM friends;
